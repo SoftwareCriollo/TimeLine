@@ -1,0 +1,39 @@
+- 
+  title: Rate it 
+  subtitle: Application that allows you to rate or endorce people.
+  descrition: This application give you the ability to rate people in a simple way given some creteria.
+  velocity: 60 hours per week until project is completed.
+  delivery: February 20 2015. 
+  budget: $$$$
+  team:
+    - 1 Sr Designer/ UX / Project Manager . Point of contact.
+    - 1 Jr Q/A.
+
+- month: January
+
+- iteration:
+    hours: 60
+    tasks:
+      - task: Branding
+      - task: UI / UX User flows 
+
+- iteration:
+    hours: 90
+    tasks:
+      - task: Base App Installation and Configuration
+      - task: Database Modeling
+      - task: Login / Authentication
+      - task: Creation of Admin Interface (Profiles, Users) 
+
+- iteration:
+    hours: 60
+    tasks:
+      - task: HTML and CSS of User Flows
+      - task: Tweacking of Admin Interface (Payments) 
+      - task: Cross Browser debug
+ 
+
+- iteration:
+    hours: 60
+    tasks:
+      - task: Q/A
